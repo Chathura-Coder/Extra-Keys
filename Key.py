@@ -1,7 +1,7 @@
 import os
 from time import sleep
 
-#by Zheck Savalas
+#by Chathura Janith
 
 a ='\033[92m'
 b ='\033[91m'
