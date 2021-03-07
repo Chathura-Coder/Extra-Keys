@@ -32,7 +32,8 @@ sleep(1)
 print(a+'[!] Success !')
 sleep(1)
 print(b+'\n[!] Setting up..')
-sleep(2)
+figlet -f slant "Done!!!"|lolcat
+leep(2)
 os.system('termux-reload-settings')
 
 
