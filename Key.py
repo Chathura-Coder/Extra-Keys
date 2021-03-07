@@ -31,8 +31,7 @@ kontol.close()
 sleep(1)
 print(a+'[!] Success !')
 sleep(1)
-print(b+'\n[!] Setting up..')
-figlet -f slant "Done!!!"|lolcat
+print(b+'\n[!] Setting up..
 leep(2)
 os.system('termux-reload-settings')
 
