@@ -31,8 +31,8 @@ kontol.close()
 sleep(1)
 print(a+'[!] Success !')
 sleep(1)
-print(b+'\n[!] Setting up..
-leep(2)
+print(b+'\n[!] Setting up..')
+sleep(2)
 os.system('termux-reload-settings')
 
 
