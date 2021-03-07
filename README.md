@@ -21,6 +21,6 @@
 
 ## [+] Find Me on :
 
-[![Github](https://img.shields.io/badge/Github-Chathura--Coder-green?style=for-the-badge&logo=github)](https://github.com/Chathura-Coder)
+[![Github](https://img.shields.io/badge/Github-Chathura--Coder-red?style=for-the-badge&logo=github)](https://github.com/Chathura-Coder)
 
 
