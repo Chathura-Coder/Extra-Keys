@@ -14,7 +14,7 @@
 
 <hr colour="Red" size="10">
 <h3>CHATHURA JANITH:<h3/>
-<img src="Termux.jpg">
+<img src="Screenshot_20210308-020024_Termux.jpg">
 
 <br>
 
