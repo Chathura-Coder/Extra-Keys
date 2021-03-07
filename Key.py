@@ -24,7 +24,7 @@ sleep(1)
 print(b+'\n[!] Making setup file..')
 sleep(1)
 
-key = "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP','ENTER'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN','DELETE']]"
+key = "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP','ENTER'],['"','(',')','&','pkg update && pkg upgradeupgrade',''git clone','pkg installinstall'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN','DELETE']]"
 kontol = open('/data/data/com.termux/files/home/.termux/termux.properties','w')
 kontol.write(key)
 kontol.close()
@@ -35,5 +35,5 @@ print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
 
-# ini cuma shortcut buat bantu para nub
-# Zheck Savalas
+
+# CHTHURA JANITH
